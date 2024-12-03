@@ -1,1 +1,2 @@
-# csug-csc320-m4ct-opt2
+# Grade Statistics
+This application calculates the average, minimum and maximum grades from an input series of 10 grades.
